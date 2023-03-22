@@ -4,3 +4,5 @@ target/
 */.bloop/
 /.bloop/
 metals*
+/src/main/scala/part2_primer/.bsp/
+/src/main/scala/part2_primer/project/
